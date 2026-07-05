@@ -1,0 +1,17 @@
+{
+  "wheel_id": 71,
+  "slug": "kitchenrenovationnorthbrisbane-150",
+  "project": "queenslander-kitchen-renovation-brisbane-kitchenrenovationnorthbrisbane-150",
+  "parent_t1_ref": "kitchenrenovationnorthbrisbane-002",
+  "node_role": "buffer",
+  "money_target": "kitchenrenovationnorthbrisbane.com.au",
+  "primary_kw": "queenslander kitchen renovation brisbane",
+  "intended_url": "https://queenslander-kitchen-renovation-brisbane-kitchenrenovationnorthbrisbane-150.pages.dev/",
+  "links": [
+    {
+      "target_url": "https://kitchenrenovationnorthbrisbane-002.s3.ap-southeast-2.amazonaws.com/queenslander-kitchen-renovation-brisbane.html",
+      "anchor": "queenslander kitchen renovation brisbane",
+      "rel": "follow"
+    }
+  ]
+}
