@@ -1,16 +1,17 @@
 {
-  "wheel_id": 71,
+  "wheel_id": 96,
+  "structure": "umbrella",
   "slug": "kitchenrenovationnorthbrisbane-150",
-  "project": "queenslander-kitchen-renovation-brisbane-kitchenrenovationnorthbrisbane-150",
-  "parent_t1_ref": "kitchenrenovationnorthbrisbane-002",
+  "project": "kitchen-renovations-brisbane-k-150",
+  "parent_t1_ref": "kitchenrenovationnorthbrisbane-001",
   "node_role": "buffer",
   "money_target": "kitchenrenovationnorthbrisbane.com.au",
-  "primary_kw": "queenslander kitchen renovation brisbane",
-  "intended_url": "https://queenslander-kitchen-renovation-brisbane-kitchenrenovationnorthbrisbane-150.pages.dev/",
+  "primary_kw": "kitchen renovations brisbane",
+  "intended_url": "https://aumedia.neocities.org/kitchen-renovations-brisbane-k-150/index.html",
   "links": [
     {
-      "target_url": "https://kitchenrenovationnorthbrisbane-002.s3.ap-southeast-2.amazonaws.com/queenslander-kitchen-renovation-brisbane.html",
-      "anchor": "queenslander kitchen renovation brisbane",
+      "target_url": "https://kitchen-renovations-brisbane-guide.netlify.app/",
+      "anchor": "kitchen renovations brisbane",
       "rel": "follow"
     }
   ]
